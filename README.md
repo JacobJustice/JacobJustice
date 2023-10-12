@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a PhD student at Clemson University.
+I'm a doctoral researcher at the University of Bamberg in Germany.
 
 My research is in Computer Graphics and Animation.
 
